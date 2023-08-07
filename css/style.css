@@ -1,5 +1,5 @@
 h2{
-text-align: left 20%;
+text-align: calc(20%);
 }
 h2{
     background-color: rgb(52, 194, 250);
