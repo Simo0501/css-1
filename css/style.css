@@ -4,8 +4,5 @@ html{
 }
 h2{
     text-align: left;
-    background-color: aliceblue;
-}
-.conteiner{
-    border: 5px solid color( rgb(0, 200, 255))
+    background-position: 30% 50%;
 }
