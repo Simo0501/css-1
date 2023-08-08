@@ -2,7 +2,7 @@ html{
     background-color: aqua;
     text-align: center;
 }
-h2{
+.description{
     text-align: left;
     background-position: 30% 50%;
 }
