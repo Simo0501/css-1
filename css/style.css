@@ -9,4 +9,7 @@ html{
 }
 .option-list{
     border-bottom: 1 px solid;
+    border-width: 20 px;
+    border-left: 20 px;
+    border-height: 20 px;
 }
