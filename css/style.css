@@ -11,6 +11,5 @@ html{
     border-radius: 20px;
 }
 .option-list{
-    font-size: larger;
+    display: inline-block 50%
 }
-padding: 60 px
