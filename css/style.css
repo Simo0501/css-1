@@ -3,13 +3,13 @@ html{
     text-align: center;
 }
 .description{
+    background-color: aliceblue;
     text-align: left;
     border: 1px solid grey ;
     border-width: 20 px;
     border-left: 20 px;
     border-right: 20 px;
     border-radius: 20px;
-    display: inline-block 50%
 }
 .option-name{
     display: inline-block 60%
