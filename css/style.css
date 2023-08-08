@@ -7,3 +7,6 @@ html{
     border: 1px solid grey ;
     border-radius: 20px;
 }
+.option-list{
+    border-bottom: 1 px solid;
+}
