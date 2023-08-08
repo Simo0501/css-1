@@ -10,5 +10,7 @@ html{
     border-left: 20 px;
     border-right: 20 px;
     border-radius: 20px;
-    display: inline-block 50%;
+}
+.description-name{
+    display:inline-block 50%;
 }
