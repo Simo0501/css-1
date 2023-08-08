@@ -4,5 +4,6 @@ html{
 }
 .description{
     text-align: left;
-    background-position: 30% ;
+    border: 1px solid grey ;
+    border-radius: 20px;
 }
